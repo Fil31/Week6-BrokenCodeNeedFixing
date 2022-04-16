@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfUserNumbers", "Week6-BrokenCodeNeedFixing\SumOfUserNumbers.csproj", "{E0103D90-B90A-4573-8D9C-1C31C2EF7D69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week6-BrokenCodeNeedFixing", "Week6-BrokenCodeNeedFixing\Week6-BrokenCodeNeedFixing.csproj", "{E0103D90-B90A-4573-8D9C-1C31C2EF7D69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{CE0FEEEB-38BB-48A9-AABD-BB4B0D76D873}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{CE0FEEEB-38BB-48A9-AABD-BB4B0D76D873}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceGameThreeThrowsForLoop", "DiceGameThreeThrowsForLoop\DiceGameThreeThrowsForLoop.csproj", "{47056483-BD0E-4E98-AE7B-AFD9CF80050E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceGameThreeThrowsForLoop", "DiceGameThreeThrowsForLoop\DiceGameThreeThrowsForLoop.csproj", "{47056483-BD0E-4E98-AE7B-AFD9CF80050E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceGame", "DiceGame\DiceGame.csproj", "{447D08E6-7D72-40A8-BBAD-5A5C02C80829}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceGame", "DiceGame\DiceGame.csproj", "{447D08E6-7D72-40A8-BBAD-5A5C02C80829}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaysOfTheWeek", "DaysOfTheWeek\DaysOfTheWeek.csproj", "{5E301D5E-9D2E-4BA3-8967-376B51DF43C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaysOfTheWeek", "DaysOfTheWeek\DaysOfTheWeek.csproj", "{5E301D5E-9D2E-4BA3-8967-376B51DF43C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfUserNumber", "SumOfUserNumber\SumOfUserNumber.csproj", "{55B42DE6-80EC-4D22-BE18-A354767509EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{5E301D5E-9D2E-4BA3-8967-376B51DF43C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E301D5E-9D2E-4BA3-8967-376B51DF43C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E301D5E-9D2E-4BA3-8967-376B51DF43C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B42DE6-80EC-4D22-BE18-A354767509EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B42DE6-80EC-4D22-BE18-A354767509EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B42DE6-80EC-4D22-BE18-A354767509EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B42DE6-80EC-4D22-BE18-A354767509EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
